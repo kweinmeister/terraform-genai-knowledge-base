@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/compare/v0.1.1...v0.2.0) (2024-03-25)
+
+
+### Features
+
+* add notebook for predictions ([#78](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/78)) ([1ebde35](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/1ebde35e8802f243e36d483f6304cd704f5de703))
+* add vector search ([#43](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/43)) ([257d718](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/257d71817a22a4f3090de1f9dc4b92cd545b4f6d))
+* improve image building performance ([#67](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/67)) ([2723991](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/2723991fce72604bc1d53a834b4a82ed3e99424c))
+* terraform to auto deploy index ([#66](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/66)) ([1f9caec](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/1f9caecaf33448f3083cef3896f22225b3d39fb9))
+* use document ai batch process ([#71](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/issues/71)) ([dcb2e48](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/commit/dcb2e48acf8915a85e868c454ba10af44eb00dd4))
+
 ## [0.1.1](https://github.com/GoogleCloudPlatform/terraform-genai-knowledge-base/compare/v0.1.0...v0.1.1) (2023-12-08)
 
 
